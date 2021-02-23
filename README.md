@@ -1,2 +1,5 @@
 # Battery-Detection
-Detect &amp; display battery info with pascal
+```markdown
+Eng: Detect display battery info with pascal
+ID : Pendeteksi dan penganalisis baterai dengan pascal
+```
